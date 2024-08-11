@@ -67,9 +67,19 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,deezer
 
 DOMAIN-SUFFIX,googlevideo.com
-DDOMAIN-KEYWORD,ggpht
+DOMAIN-KEYWORD,ggpht
 DOMAIN-KEYWORD,ytimg
+DOMAIN-SUFFIX,l.google.com
+DOMAIN-SUFFIX,ytimg.l.google.com
 DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,youtubei.googleapis.com 
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,nhacmp3youtube.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,yt4.ggpht.com
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,googleapis
 
 DOMAIN-SUFFIX,lostfilm.tv
 DOMAIN-SUFFIX,rutracket.org
