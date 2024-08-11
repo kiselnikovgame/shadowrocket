@@ -66,20 +66,16 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,deezer
 
-DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,ggpht
 DOMAIN-KEYWORD,ytimg
-DOMAIN-SUFFIX,l.google.com
-DOMAIN-SUFFIX,ytimg.l.google.com
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,play.google.com
-DOMAIN-SUFFIX,youtubei.googleapis.com 
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,nhacmp3youtube.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,yt4.ggpht.com
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,gstatic
 DOMAIN-KEYWORD,googleapis
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,nhacmp3youtube.com
 
 DOMAIN-SUFFIX,lostfilm.tv
 DOMAIN-SUFFIX,rutracket.org
