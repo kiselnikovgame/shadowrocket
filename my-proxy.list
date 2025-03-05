@@ -1,7 +1,7 @@
 # NAME: My Proxy
 # AUTHOR: Sergey Kiselnikov
 # REPO: https://github.com/kiselnikovgame/shadowrocket
-# UPDATED: 2024-08-11
+# UPDATED: 2025-03-05
 
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
@@ -80,3 +80,4 @@ DOMAIN-SUFFIX,nhacmp3youtube.com
 
 DOMAIN-SUFFIX,lostfilm.tv
 DOMAIN-SUFFIX,rutracket.org
+DOMAIN-SUFFIX,nmcorp.video
